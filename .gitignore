@@ -1,1 +1,5 @@
 /target
+
+# JetBrains IDE
+.idea/
+*.iml
